@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://serjen2:nopasaran@cluster0.hyaix.mongodb.net/mySecondDatabase?retryWrites=true&w=majority"
+}
